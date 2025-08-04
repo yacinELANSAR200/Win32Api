@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutdownWindows", "Shutdown
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBox", "MessageBox\MessageBox.csproj", "{224ABE91-693F-43EC-8D32-B1092F375229}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningProcesses", "RunningProcess\RunningProcesses.csproj", "{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{224ABE91-693F-43EC-8D32-B1092F375229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224ABE91-693F-43EC-8D32-B1092F375229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224ABE91-693F-43EC-8D32-B1092F375229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
