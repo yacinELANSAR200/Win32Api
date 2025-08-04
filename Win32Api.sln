@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeDesktopWallpaper", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetScreenResolution", "GetScreenResolution\GetScreenResolution.csproj", "{35E5C4DF-4D43-4B7F-B4E1-D853E1F2A857}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryInfo", "BatteryInfo\BatteryInfo.csproj", "{C81B2230-F64A-4387-B0D2-3F35890E7143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{35E5C4DF-4D43-4B7F-B4E1-D853E1F2A857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35E5C4DF-4D43-4B7F-B4E1-D853E1F2A857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35E5C4DF-4D43-4B7F-B4E1-D853E1F2A857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81B2230-F64A-4387-B0D2-3F35890E7143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81B2230-F64A-4387-B0D2-3F35890E7143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81B2230-F64A-4387-B0D2-3F35890E7143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81B2230-F64A-4387-B0D2-3F35890E7143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
