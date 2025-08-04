@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioAPI", "AudioAPI\AudioA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookEmailSender", "OutlookEmailSender\OutlookEmailSender.csproj", "{DD738F71-DFE8-4769-A537-E38255428B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWordDocument", "CreateWordDocument\CreateWordDocument.csproj", "{293C8514-0105-435A-9B4B-EFED9D7EFAC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DD738F71-DFE8-4769-A537-E38255428B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD738F71-DFE8-4769-A537-E38255428B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD738F71-DFE8-4769-A537-E38255428B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293C8514-0105-435A-9B4B-EFED9D7EFAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293C8514-0105-435A-9B4B-EFED9D7EFAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293C8514-0105-435A-9B4B-EFED9D7EFAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293C8514-0105-435A-9B4B-EFED9D7EFAC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
