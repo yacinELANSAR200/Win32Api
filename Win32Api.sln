@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBox", "MessageBox\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningProcesses", "RunningProcess\RunningProcesses.csproj", "{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioAPI", "AudioAPI\AudioAPI.csproj", "{860D1146-8C03-411B-88F6-30FA3E1AEE46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2ED6C92-13E6-41AC-BA36-B81AC04F3C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860D1146-8C03-411B-88F6-30FA3E1AEE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860D1146-8C03-411B-88F6-30FA3E1AEE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860D1146-8C03-411B-88F6-30FA3E1AEE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860D1146-8C03-411B-88F6-30FA3E1AEE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
